@@ -1,3 +1,7 @@
+// 
+// all learned from youtube Web Dev Simplified
+// https://youtu.be/Y-GkMjUZsmM?si=Q7tB2zKFmWaiqMcC
+// 
 const X_CLASS = "x";
 const CIRCLE_CLASS = "circle";
 const WINNING_COMBINATIONS = [
